@@ -1,3 +1,10 @@
+# CT: How to add keymap to new computer
+- Make a change in the repo to trigger a build
+- Download the artifact (firmware files)
+- Connect each side of the keyboard to the computer, one at a time and repeat the following
+  * Enter bootloader mode by double clicking the tiny button between the thumb clusters
+  * Drag the firmware over to the now discoverable drive
+
 # Kinesis Advantage 360 Pro ZMK Config
 
 ## Modifying the keymap
